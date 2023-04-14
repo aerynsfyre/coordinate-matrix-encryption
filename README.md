@@ -3,7 +3,9 @@ Code for the Coordinate Matrix Encryption scheme presented in "Using Graphic Bas
 
 
 This code presents implementations of the CME scheme introduced in Chapman, E., (2016) "Using Graphic Based Systems to Improve Cryptographic Algorithms". Any use of the code, algorithm, or implementations should be accompanied by citation of the following papers describing the creation and use of the algorithm:
+
   Chapman, E. (2016). Using Graphic Based Systems to Improve Cryptographic Algorithms (Masters dissertation, Auckland University of Technology).
+  
   Cusack, B., & Chapman, E. (2016). Using graphic methods to challenge cryptographic performance.
   
 Implementations:
